@@ -4,7 +4,11 @@
 
 **CS Student @ ISUTC** • **Software Engineer** • **Data Analyst** • **Networks & Security Enthusiast**
 
-Crafting robust code, sleek digital experiences, and scalable software solutions. Based in Maputo, Mozambique 🇲🇿 with 1+ year of hands-on experience in Web Development.
+⚡ **Actively seeking Internships, Entry-Level Engineering Roles & Freelance Opportunities!**
+
+Crafting robust digital experiences, scalable software solutions, and clean, well-structured code. Based in Maputo, Mozambique 🇲🇿 with 1+ year of hands-on experience in Web Development.
+
+> 🤝 **What I Bring to Your Team:** Dedicated to delivering clean, maintainable, and well-documented code. Fast learner with strong OOP fundamentals, eager to collaborate, adapt quickly to new stacks, and drive team growth while building impactful products.
 
 <br clear="right" />
 
@@ -64,7 +68,7 @@ Crafting robust code, sleek digital experiences, and scalable software solutions
   <a href="https://www.reddit.com/u/Astro-pato178" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="35" alt="Reddit" />
   </a>
-  <a href="https://www.instagram.com/ton_serveur_178" target="_blank">
+  <a href="https://www.instagram.com/ton_serveur" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
 </div>
