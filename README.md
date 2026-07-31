@@ -21,9 +21,9 @@ Crafting robust digital experiences, scalable software solutions, and clean, wel
 
 ### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="28" height="28" /> Featured Projects
 - 🌊 **[FloodGuard Evacuation](https://github.com/manuelmatsinhe)** — Web app for real-time flood emergency routing & crowdsourced alerts *(BIT Africa Hackathon)*.
-- 🛹 **[Skater Community App](https://github.com/manuelmatsinhe)** — Interactive HTML5 platform for skate culture, art, and community networking.
-- ♻️ **[Maputo Eco Tracking](https://github.com/manuelmatsinhe)** — Data-driven logistics and community waste management platform.
-- 🤖 **[WhatsApp AI Agent](https://github.com/manuelmatsinhe)** — Automated conversational assistant powering client engagement via APIs.
+- 🛹 **Skater Community App** — 🛠️ *In Development*
+- ♻️ **Maputo Eco Tracking** — 🛠️ *In Development*
+- 🤖 **WhatsApp AI Agent** — 🛠️ *In Development*
 
 <hr>
 
@@ -68,7 +68,7 @@ Crafting robust digital experiences, scalable software solutions, and clean, wel
   <a href="https://www.reddit.com/u/Astro-pato178" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="35" alt="Reddit" />
   </a>
-  <a href="https://www.instagram.com/ton_serveur_178" target="_blank">
+  <a href="https://www.instagram.com/ton_serveur" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
 </div>
