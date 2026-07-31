@@ -68,7 +68,7 @@ Crafting robust digital experiences, scalable software solutions, and clean, wel
   <a href="https://www.reddit.com/u/Astro-pato178" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="35" alt="Reddit" />
   </a>
-  <a href="https://www.instagram.com/ton_serveur" target="_blank">
+  <a href="https://www.instagram.com/ton_serveur_178" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
 </div>
